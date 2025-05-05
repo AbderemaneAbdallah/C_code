@@ -1,2 +1,8 @@
 # C_code
-quelque Notions de base du C 
+#include <stdio.h>
+
+int main() {
+  printf("Mon nom est : AbdallahAbderemane\n");
+  return 0;
+}
+
